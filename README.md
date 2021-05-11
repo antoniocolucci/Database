@@ -1,7 +1,7 @@
 # Database
 Progetto Database
 
-La prima cartella contiene i 6 file con estensione ".sql" riferiti alle esecuzioni delle 6 procedure con i parametri suggeriti per testarle.
+La prima cartella, "Exec_Procedura", contiene i 6 file con estensione ".sql" riferiti alle esecuzioni delle 6 procedure con i parametri suggeriti per testarle.
 La seconda cartella, "export", contiene il dump del nostro database insieme al file con estensione ".log".
 
 La terza cartella è quella degli script che vanno compilati nell'ordine in cui sono numerati.
