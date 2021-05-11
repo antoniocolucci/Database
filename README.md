@@ -1,11 +1,11 @@
 # Database
 Progetto Database
 
-La prima cartella, "Exec_Procedure", contiene i 6 file con estensione ".sql" riferiti alle esecuzioni delle 6 procedure con i parametri suggeriti per testarle.
+La cartella, "Exec_Procedure", contiene i 6 file con estensione ".sql" riferiti alle esecuzioni delle 6 procedure con i parametri suggeriti per testarle.
 
-La seconda cartella, "export", contiene il dump del database insieme al file con estensione ".log".
+La cartella, "export", contiene il dump del database insieme al file con estensione ".log".
 
-La terza cartella è quella degli script che vanno compilati nell'ordine in cui sono numerati.
+La cartella è quella degli script che vanno compilati nell'ordine in cui sono numerati.
 
 Si parte dal file "0_create_user_admin.sql" che contiene lo script per creare l'utente proprietario, chiamato "casa_discografica" con password "musica", che va eseguito dall'utente SYS.
 Successivamente c'è il file "1_create.sql" che contiene gli script per creare le tabelle con i constraints e le primary key.
